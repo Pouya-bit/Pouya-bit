@@ -1,68 +1,69 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/163311825" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture"/>
+<img src="https://avatars.githubusercontent.com/u/163311825" width="200" height="200" style="border-radius: 50%; border: 4px solid #0ff; box-shadow: 0 0 20px #0ff;" alt="Profile Picture"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Garden+%F0%9F%8C%B1;Crafting+Development+Environments+%F0%9F%9B%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=0FFBF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Realm+%F0%9F%8E%AE;Crafting+Pixel+Perfect+Code+%F0%9F%95%B9)](https://git.io/typing-svg)
 
 <a href="https://github.com/Pouya-bit">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=1a1b27&tc=FF00FF&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=000000&tc=00ffff&ic=ff00ff&bc=0000">
 </a>
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Pouya-bit?logo=GitHub&style=for-the-badge&color=FF00FF)](https://github.com/Pouya-bit)
-[![GitHub Stars](https://img.shields.io/github/stars/Pouya-bit?logo=github&style=for-the-badge&color=FF00FF)](https://github.com/Pouya-bit)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Pouya-bit?logo=githubsponsors&style=for-the-badge&color=FF00FF)](https://github.com/sponsors/Pouya-bit)
+[![GitHub followers](https://img.shields.io/github/followers/Pouya-bit?logo=GitHub&style=for-the-badge&color=00ffff)](https://github.com/Pouya-bit)
+[![GitHub Stars](https://img.shields.io/github/stars/Pouya-bit?logo=github&style=for-the-badge&color=ff00ff)](https://github.com/Pouya-bit)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Pouya-bit?logo=githubsponsors&style=for-the-badge&color=00ffff)](https://github.com/sponsors/Pouya-bit)
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/wLFmQ6q.gif">
 
-### 🎯 Quick Impact
+### 🎮 Quick Impact
 
 ```typescript
-class DevelopmentArchitect {
+// Neon Code Block
+class PixelArchitect {
     readonly name = "Pouya";
-    readonly title = "Development Environment Architect";
+    readonly title = "Pixel Perfect Developer";
     readonly languages = ["Lua", "Shell", "JavaScript"] as const;
     readonly dailyTools = ["Neovim", "Git", "Linux"] as const;
     
     constructor() {
-        this.mission = "Crafting Efficient Development Environments";
-        this.passion = "Optimizing Developer Workflows";
-        this.focus = "Neovim & Lua Ecosystem";
+        this.mission = "Creating Retro-Futuristic Dev Environments";
+        this.passion = "Crafting Pixel-Perfect Workflows";
+        this.focus = "Neon-Powered Neovim & Lua";
     }
 
-    sayHi(): string {
-        return "Let's create something extraordinary together! 🚀";
+    powerUp(): string {
+        return "Let's create something legendary! 🕹️";
     }
 }
 ```
 
-### 🌟 Professional Summary
+### ⚡ Professional Summary
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="background: linear-gradient(45deg, #000000, #1a0033); border: 2px solid #00ffff;">
 
-<h3 align="center">Developer Profile 👨‍💻</h3>
+<h3 align="center">🕹️ Developer Profile</h3>
 
-- 🎯 **Specialization**: Development Environment Architecture
-- 🛠️ **Expertise**: Neovim Configuration & Plugin Development
-- 📚 **Focus Areas**: Performance Optimization & Workflow Automation
-- 🌱 **Growth**: Continuous Learning & Open Source Contribution
-- 🎨 **Philosophy**: "Efficiency through Elegant Design"
+- 🎯 **Class**: Pixel Perfect Architect
+- 🛠️ **Skill Tree**: Neovim Configuration & Plugin Development
+- 📚 **Tech Tree**: Performance Optimization & Workflow Automation
+- 🌱 **Power-Ups**: Continuous Learning & Open Source
+- 🎨 **Quest**: "Crafting Digital Magic Through Code"
 
 </td>
-<td width="50%">
+<td width="50%" style="background: linear-gradient(45deg, #000000, #330033); border: 2px solid #ff00ff;">
 
-<h3 align="center">Impact & Achievements 🏆</h3>
+<h3 align="center">🏆 Achievement Unlocked</h3>
 
-- 🚀 Crafted Custom Neovim Configurations
-- ⚡ Optimized Development Workflows
-- 🔧 Built Automation Tools
-- 📈 Enhanced Developer Productivity
-- 🌟 Active Open Source Contributor
+- 🚀 Legendary Neovim Configurations
+- ⚡ S-Tier Workflow Optimization
+- 🔧 Rare Automation Tools
+- 📈 Max Level Productivity
+- 🌟 Elite Open Source Contributor
 
 </td>
 </tr>
@@ -71,29 +72,29 @@ class DevelopmentArchitect {
 ### 🛠️ Technology Arsenal
 
 <details>
-<summary>🧰 Development Environment</summary>
+<summary>🎮 Development Environment</summary>
 <br>
 
 <div align="center">
 
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=black&color=00ffff)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=black&color=ff00ff)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=black&color=00ffff)
 
 </div>
 
 ```lua
--- My Development Philosophy
+-- Neon Config
 return {
     editor = {
         primary = "Neovim",
-        philosophy = "Minimal yet powerful",
-        customization = "Fully configured for maximum efficiency"
+        theme = "Cyber Neon",
+        power_level = "Over 9000"
     },
     workflow = {
-        automation = "Extensive",
-        efficiency = "Optimized",
-        productivity = "Enhanced"
+        automation = "Maximum",
+        efficiency = "Turbo",
+        style = "Retro-Future"
     }
 }
 ```
@@ -176,12 +177,12 @@ A meticulously crafted development environment
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pouya-bit&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pouya-bit&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=ff00ff&icon_color=00ffff&bg_color=000000)
 
 </td>
 <td width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pouya-bit&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pouya-bit&theme=radical&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ff00ff&background=000000)
 
 </td>
 </tr>
@@ -252,18 +253,19 @@ const professionalJourney = {
 
 <div align="center">
 
-### 🤝 Let's Connect & Create
+### 🕹️ Let's Connect & Create
 
 <a href="https://github.com/Pouya-bit">
-    <img src="https://img.shields.io/badge/Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white&color=FF00FF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Join_My_Quest-100000?style=for-the-badge&logo=github&logoColor=black&color=00ffff" alt="GitHub"/>
 </a>
 
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pouya-bit&label=Profile%20views&color=FF00FF&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=pouya-bit&label=Visitors&color=00ffff&style=pixel" alt="Profile Views"/>
 
 </div>
 
-<!-- Custom Footer -->
+<!-- Neon Footer -->
+<img src="https://i.imgur.com/waxVImv.png" alt="Neon Separator">
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"> 
