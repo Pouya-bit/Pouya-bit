@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/163311825" width="200" height="200" style="border-radius: 50%; border: 4px solid #0ff; box-shadow: 0 0 20px #0ff;" alt="Profile Picture"/>
+<img src="https://avatars.githubusercontent.com/u/163311825" width="200" height="200" style="border-radius: 50%; border: 4px solid #84ffff; box-shadow: 0 0 20px #84ffff;" alt="Profile Picture"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=0FFBF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Realm+%F0%9F%8E%AE;Crafting+Pixel+Perfect+Code+%F0%9F%95%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=84FFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Realm+%F0%9F%8E%AE;Crafting+Pixel+Perfect+Code+%F0%9F%95%B9)](https://git.io/typing-svg)
 
 <a href="https://github.com/Pouya-bit">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=000000&tc=00ffff&ic=ff00ff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=000000&tc=84ffff&ic=ff84ff&bc=0000">
 </a>
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Pouya-bit?logo=GitHub&style=for-the-badge&color=00ffff)](https://github.com/Pouya-bit)
-[![GitHub Stars](https://img.shields.io/github/stars/Pouya-bit?logo=github&style=for-the-badge&color=ff00ff)](https://github.com/Pouya-bit)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Pouya-bit?logo=githubsponsors&style=for-the-badge&color=00ffff)](https://github.com/sponsors/Pouya-bit)
+[![GitHub followers](https://img.shields.io/github/followers/Pouya-bit?logo=GitHub&style=for-the-badge&color=84ffff)](https://github.com/Pouya-bit)
+[![GitHub Stars](https://img.shields.io/github/stars/Pouya-bit?logo=github&style=for-the-badge&color=ff84ff)](https://github.com/Pouya-bit)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Pouya-bit?logo=githubsponsors&style=for-the-badge&color=84ffff)](https://github.com/sponsors/Pouya-bit)
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/wLFmQ6q.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/YYfandB.gif">
 
 ### 🎮 Quick Impact
 
@@ -44,7 +44,7 @@ class PixelArchitect {
 
 <table>
 <tr>
-<td width="50%" style="background: linear-gradient(45deg, #000000, #1a0033); border: 2px solid #00ffff;">
+<td width="50%" style="background: linear-gradient(45deg, #000000, #1a0033); border: 2px solid #84ffff;">
 
 <h3 align="center">🕹️ Developer Profile</h3>
 
@@ -55,7 +55,7 @@ class PixelArchitect {
 - 🎨 **Quest**: "Crafting Digital Magic Through Code"
 
 </td>
-<td width="50%" style="background: linear-gradient(45deg, #000000, #330033); border: 2px solid #ff00ff;">
+<td width="50%" style="background: linear-gradient(45deg, #000000, #330033); border: 2px solid #ff84ff;">
 
 <h3 align="center">🏆 Achievement Unlocked</h3>
 
@@ -77,9 +77,9 @@ class PixelArchitect {
 
 <div align="center">
 
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=black&color=00ffff)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=black&color=ff00ff)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=black&color=00ffff)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=black&color=84ffff)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=black&color=ff84ff)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=black&color=84ffff)
 
 </div>
 
@@ -177,12 +177,12 @@ A meticulously crafted development environment
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pouya-bit&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&text_color=ff00ff&icon_color=00ffff&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pouya-bit&show_icons=true&theme=radical&hide_border=true&title_color=84ffff&text_color=ff84ff&icon_color=84ffff&bg_color=000000)
 
 </td>
 <td width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pouya-bit&theme=radical&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ff00ff&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pouya-bit&theme=radical&hide_border=true&ring=84ffff&fire=ff84ff&currStreakLabel=84ffff&sideLabels=ff84ff&background=000000)
 
 </td>
 </tr>
@@ -256,13 +256,13 @@ const professionalJourney = {
 ### 🕹️ Let's Connect & Create
 
 <a href="https://github.com/Pouya-bit">
-    <img src="https://img.shields.io/badge/Join_My_Quest-100000?style=for-the-badge&logo=github&logoColor=black&color=00ffff" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Join_My_Quest-100000?style=for-the-badge&logo=github&logoColor=black&color=84ffff" alt="GitHub"/>
 </a>
 
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pouya-bit&label=Visitors&color=00ffff&style=pixel" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=pouya-bit&label=Visitors&color=84ffff&style=pixel" alt="Profile Views"/>
 
 </div>
 
