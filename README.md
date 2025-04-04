@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/163311825" width="200" height="200" style="border-radius: 50%; border: 4px solid #B19CD9; box-shadow: 0 0 20px #B19CD9;" alt="Profile Picture"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=B19CD9&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Realm+%F0%9F%8E%AE;Crafting+Pixel+Perfect+Code+%F0%9F%95%B9)](https://git.io/typing-svg)
 
 <a href="https://github.com/Pouya-bit">
