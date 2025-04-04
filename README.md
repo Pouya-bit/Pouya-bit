@@ -1,52 +1,85 @@
 # Hi 👋, I'm Pouya
-### A passionate developer building the future of technology
 
-![Profile Views](https://komarev.com/ghpvc/?username=pouya-bit&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6F3DE0&center=true&vCenter=true&width=435&lines=Passionate+Developer;Neovim+Enthusiast;Open+Source+Contributor;Always+Learning)](https://git.io/typing-svg)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=pouya-bit&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-### 🚀 About Me
-- 🔭 I'm currently working on **[AstroNvim Configuration](https://github.com/Pouya-bit/starter-astronvim)** - A customized Neovim setup using AstroNvim
-- 🌱 I'm currently learning **Lua, Neovim Plugin Development, and Modern Development Workflows**
-- 👯 I'm looking to collaborate on **innovative open-source projects and developer tools**
-- 🛠️ Passionate about creating efficient development environments and tooling
+![Profile Views](https://komarev.com/ghpvc/?username=pouya-bit&label=Profile%20views&color=6F3DE0&style=flat)
 
-### 🛠️ Technologies & Tools
+### 💫 About Me
 
+I'm a developer focused on creating efficient and powerful development environments. My passion lies in optimizing workflows and building tools that make developers' lives easier.
+
+- 🔭 Currently working on **[AstroNvim Configuration](https://github.com/Pouya-bit/starter-astronvim)** - A customized Neovim setup
+- 🌱 Expanding my knowledge in **Lua, Neovim Plugin Development, and Modern Development Workflows**
+- 👯 Open to collaborate on **innovative open-source projects and developer tools**
+- 🎯 Goal: Contributing to tools that enhance developer productivity
+- ⚡ Fun fact: I believe the perfect development environment is an endless journey of optimization
+
+### 🛠️ Tech Stack
+
+#### Languages & Development
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### Development Tools
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+#### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pouya-bit&show_icons=true&theme=dracula)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pouya-bit&theme=dracula)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🎯 Featured Projects
-1. **[AstroNvim Configuration](https://github.com/Pouya-bit/starter-astronvim)** - A powerful and customized Neovim setup
-   - Built on AstroNvim v4+, providing an enhanced development environment
-   - Features custom configurations for JavaScript and React development
-   - Includes intelligent code completion, syntax highlighting, and advanced LSP integration
-   - Implements efficient workflow optimizations and custom keybindings
-   - Technologies used: Lua, Neovim, AstroNvim, LSP, JavaScript, React
 
+#### AstroNvim Configuration
+A powerful and customized Neovim setup designed for modern development workflows.
+- 🔧 Custom configurations for enhanced productivity
+- 📚 Integrated LSP support for intelligent code completion
+- ⚡ Optimized for performance and extensibility
+- 🎨 Beautiful and functional UI enhancements
 
+### 📊 GitHub Analytics
 
-### 💡 Core Skills
-- **Development Environment Configuration**
-- **Lua Programming**
-- **Text Editor Customization**
-- **Shell Scripting (PowerShell, Bash)**
-- **Version Control with Git**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pouya-bit&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouya-bit&theme=dracula" alt="GitHub Streak" />
+</div>
 
-### 📚 Current Focus
-- Expanding AstroNvim configuration capabilities
-- Learning advanced Lua programming concepts
-- Contributing to open-source developer tools
-- Optimizing development workflows
+### 💡 Core Competencies
+
+- **Development Environment Optimization**
+  - Custom IDE configurations
+  - Workflow automation
+  - Performance tuning
+
+- **Tool Development**
+  - Plugin development
+  - Shell scripting
+  - Development utilities
+
+- **Best Practices**
+  - Clean code principles
+  - Version control
+  - Documentation
+
+### 📚 Current Learning Path
+- Advanced Lua programming patterns
+- Neovim plugin architecture
+- Modern development workflows
+- Open source contribution strategies
 
 ---
-⭐️ From [Pouya-bit](https://github.com/Pouya-bit) 
+
+<div align="center">
+  
+### 🤝 Let's Connect and Build Something Amazing Together!
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pouya-bit)
+
+</div> 
