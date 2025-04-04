@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=B19CD9&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Realm+%F0%9F%8E%AE;Crafting+Pixel+Perfect+Code+%F0%9F%95%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=B19CD9&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Realm+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <a href="https://github.com/Pouya-bit">
     <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=000000&tc=B19CD9&ic=D8BFD8&bc=0000">
@@ -14,7 +14,11 @@
 
 </div>
 
-### 🎮 Quick Impact
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=B19CD9&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Quick+Impact+%F0%9F%8E%AE)](https://git.io/typing-svg)
+
+</div>
 
 ```typescript
 // Neon Code Block
@@ -36,13 +40,21 @@ class PixelArchitect {
 }
 ```
 
-### ⚡ Professional Summary
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=B19CD9&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Professional+Summary+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
 
 <table>
 <tr>
 <td width="50%" style="background: linear-gradient(45deg, #000000, #2D1B36); border: 2px solid #B19CD9;">
 
-<h3 align="center">🕹️ Developer Profile</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&color=B19CD9&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Developer+Profile+%F0%9F%95%B9)](https://git.io/typing-svg)
+
+</div>
 
 - 🎯 **Class**: Pixel Perfect Architect
 - 🛠️ **Skill Tree**: Neovim Configuration & Plugin Development
@@ -53,7 +65,11 @@ class PixelArchitect {
 </td>
 <td width="50%" style="background: linear-gradient(45deg, #000000, #362B36); border: 2px solid #D8BFD8;">
 
-<h3 align="center">🏆 Achievement Unlocked</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&color=D8BFD8&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Achievement+Unlocked+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+</div>
 
 - 🚀 Legendary Neovim Configurations
 - ⚡ S-Tier Workflow Optimization
@@ -65,13 +81,9 @@ class PixelArchitect {
 </tr>
 </table>
 
-### 🛠️ Technology Arsenal
-
-<details>
-<summary>🎮 Development Environment</summary>
-<br>
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=B19CD9&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Technology+Arsenal+%F0%9F%9B%A0)](https://git.io/typing-svg)
 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=black&color=B19CD9)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=black&color=D8BFD8)
@@ -79,94 +91,11 @@ class PixelArchitect {
 
 </div>
 
-```lua
--- Neon Config
-return {
-    editor = {
-        primary = "Neovim",
-        theme = "Cyber Neon",
-        power_level = "Over 9000"
-    },
-    workflow = {
-        automation = "Maximum",
-        efficiency = "Turbo",
-        style = "Retro-Future"
-    }
-}
-```
-</details>
-
-<details>
-<summary>⚙️ Development Tools</summary>
-<br>
-
 <div align="center">
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=B19CD9&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Performance+Metrics+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 </div>
-
-```bash
-# My Tooling Philosophy
-TOOLS=(
-    "Version Control: Git for precise history tracking"
-    "Collaboration: GitHub for open source contribution"
-    "Automation: Shell scripts for workflow optimization"
-    "Integration: Seamless tool connectivity"
-)
-```
-</details>
-
-<details>
-<summary>💻 Operating Systems</summary>
-<br>
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
-```python
-os_expertise = {
-    "Linux": ["System Configuration", "Shell Scripting", "Performance Tuning"],
-    "Windows": ["Development Setup", "WSL Integration", "PowerShell Automation"]
-}
-```
-</details>
-
-### 🎯 Featured Project
-
-<div align="center">
-
-[![AstroNvim Card](https://github-readme-stats.vercel.app/api/pin/?username=Pouya-bit&repo=starter-astronvim&theme=tokyonight)](https://github.com/Pouya-bit/starter-astronvim)
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" width="200">
-
-### AstroNvim Configuration
-A meticulously crafted development environment
-</td>
-<td width="50%">
-
-### Key Features
-- 🚀 Optimized Performance
-- 🎨 Modern UI/UX
-- 🔧 Custom Plugins
-- ⚡ Efficient Workflows
-</td>
-</tr>
-</table>
-
-</div>
-
-### 📊 Performance Metrics
 
 <div align="center">
 <table>
@@ -185,71 +114,9 @@ A meticulously crafted development environment
 </table>
 </div>
 
-### 💡 Technical Expertise
-
-```mermaid
-mindmap
-  root((Core
-    Competencies))
-    Development
-      Neovim Mastery
-        Plugin Development
-        Configuration
-        Performance Tuning
-      Lua Expertise
-        Advanced Patterns
-        API Integration
-        Custom Solutions
-    Environment
-      Setup Automation
-        Shell Scripting
-        Task Runners
-        CI/CD Integration
-      Workflow Optimization
-        Custom Tools
-        Process Automation
-        Efficiency Metrics
-    Best Practices
-      Code Quality
-        Style Guidelines
-        Documentation
-        Testing
-      Version Control
-        Git Workflow
-        Collaboration
-        Code Review
-```
-
-### 📚 Learning & Growth
-
 <div align="center">
 
-```javascript
-const professionalJourney = {
-    currentFocus: [
-        "Advanced Lua Design Patterns",
-        "Neovim Plugin Architecture",
-        "Performance Optimization Techniques"
-    ],
-    upcomingProjects: [
-        "Custom LSP Implementation",
-        "Workflow Automation Framework",
-        "Developer Productivity Tools"
-    ],
-    continuousLearning: {
-        technical: ["System Design", "API Architecture"],
-        soft: ["Technical Writing", "Community Building"]
-    }
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🕹️ Let's Connect & Create
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=B19CD9&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Let's+Connect+%F0%9F%95%B9)](https://git.io/typing-svg)
 
 <a href="https://github.com/Pouya-bit">
     <img src="https://img.shields.io/badge/Join_My_Quest-100000?style=for-the-badge&logo=github&logoColor=black&color=B19CD9" alt="GitHub"/>
