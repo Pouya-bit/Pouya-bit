@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pouya
-### A passionate software developer building the future of technology
+### A passionate developer building the future of technology
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pouya-bit&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -12,11 +12,12 @@
 - 🛠️ Passionate about creating efficient development environments and tooling
 
 ### 🛠️ Technologies & Tools
-
-![Lua](https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg)
-![Neovim](https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg)
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</div>
 
 ### 📊 GitHub Stats
 
@@ -32,9 +33,7 @@
    - Implements efficient workflow optimizations and custom keybindings
    - Technologies used: Lua, Neovim, AstroNvim, LSP, JavaScript, React
 
-### 🤝 Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/[your-linkedin])
 
 ### 💡 Core Skills
 - **Development Environment Configuration**
@@ -42,7 +41,7 @@
 - **Text Editor Customization**
 - **Shell Scripting (PowerShell, Bash)**
 - **Version Control with Git**
-- **JavaScript/React Development Setup**
+
 
 ### 📚 Current Focus
 - Expanding AstroNvim configuration capabilities
