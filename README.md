@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=B19CD9&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Realm+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=4000&pause=1000&color=B19CD9&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Realm+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <a href="https://github.com/Pouya-bit">
     <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=000000&tc=B19CD9&ic=D8BFD8&bc=0000">
