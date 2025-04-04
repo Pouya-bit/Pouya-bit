@@ -1,16 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6F3DE0&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Garden+%F0%9F%8C%B1;Crafting+Development+Environments+%F0%9F%9B%A0)](https://git.io/typing-svg)
+<img src="https://avatars.githubusercontent.com/u/163311825" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pouya;Welcome+to+my+Digital+Garden+%F0%9F%8C%B1;Crafting+Development+Environments+%F0%9F%9B%A0)](https://git.io/typing-svg)
 
 <a href="https://github.com/Pouya-bit">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Pouya-bit&cc=1a1b27&tc=FF00FF&ic=fff&bc=0000">
 </a>
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Pouya-bit?logo=GitHub&style=for-the-badge)](https://github.com/Pouya-bit)
-[![GitHub Stars](https://img.shields.io/github/stars/Pouya-bit?logo=github&style=for-the-badge)](https://github.com/Pouya-bit)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Pouya-bit?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/Pouya-bit)
+[![GitHub followers](https://img.shields.io/github/followers/Pouya-bit?logo=GitHub&style=for-the-badge&color=FF00FF)](https://github.com/Pouya-bit)
+[![GitHub Stars](https://img.shields.io/github/stars/Pouya-bit?logo=github&style=for-the-badge&color=FF00FF)](https://github.com/Pouya-bit)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Pouya-bit?logo=githubsponsors&style=for-the-badge&color=FF00FF)](https://github.com/sponsors/Pouya-bit)
 
 </div>
 
@@ -253,13 +255,13 @@ const professionalJourney = {
 ### 🤝 Let's Connect & Create
 
 <a href="https://github.com/Pouya-bit">
-    <img src="https://img.shields.io/badge/Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white&color=FF00FF" alt="GitHub"/>
 </a>
 
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pouya-bit&label=Profile%20views&color=6F3DE0&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=pouya-bit&label=Profile%20views&color=FF00FF&style=flat" alt="Profile Views"/>
 
 </div>
 
